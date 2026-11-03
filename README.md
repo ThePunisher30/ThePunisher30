@@ -8,7 +8,6 @@ Computer science grad from Pune, India. I like understanding how things work by 
 - 🌱 Learning more about retrieval systems, ANN search and distributed systems
 - 🛠️ I'd rather rebuild the thing than treat it as a black box
 - 🤖 Robotics at heart: I was a coding and mechanical member of SRM Team Robocon
-- 🗣️ I speak English and Hindi fluently, plus some Marathi and German
 
 ## Experience
 
@@ -16,15 +15,10 @@ Computer science grad from Pune, India. I like understanding how things work by 
 - **Software Engineering Intern, Azentio Software** (Jun 2025 - Nov 2025): fixed 65-70 bugs on a live insurance platform (Java, Spring Boot, Oracle PL/SQL)
 - **B.Tech in Computer Science (Big Data Analytics), SRM Institute of Science and Technology** (2022 - 2026)
 
-## Highlights
-
-- 🏆 2nd place, Data Science and Business Systems Coding Contest 2023 at SRM
-- 📜 NPTEL Data Science for Engineers (Topper) and Cloud Computing (Topper); AWS Academy Machine Learning and Cloud Foundations
-
 ## Tech I use
 
-![Python](https://skillicons.dev/icons?i=py,go,cpp,c,java,ts,js,react,nodejs,spring,fastapi,aws,docker,kubernetes,redis,git)
+![Python](https://skillicons.dev/icons?i=py,go,cpp,c,java,js,react,nodejs,spring,fastapi,aws,docker,kubernetes,redis,git)
 
 ## Outside of code
 
-🎮 Gaming, 🤖 robotics and 📚 reading.
+🎮 Gaming, 🤖 robotics, 📚 reading, ⚽ football.
