@@ -2,6 +2,12 @@
 
 Computer science grad from Pune, India. I like understanding how things work by building them from scratch.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThePunisher30/ThePunisher30/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThePunisher30/ThePunisher30/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ThePunisher30/ThePunisher30/output/github-snake.svg" />
+</picture>
+
 ## A bit about me
 
 - 🔭 Currently building a RAG search engine from scratch, with BM25, vector indexes and hybrid retrieval
