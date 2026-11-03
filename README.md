@@ -1,5 +1,9 @@
 # Hey, I'm Aniruddh 👋
 
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=520&height=40&lines=Python+%7C+Go+%7C+C%2B%2B;Building+a+RAG+engine+from+scratch;Always+learning+how+things+work" alt="Typing animation" />
+</p>
+
 Computer science grad from Pune, India. I like understanding how things work by building them from scratch.
 
 <picture>
